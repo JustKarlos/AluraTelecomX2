@@ -9,7 +9,6 @@
 
 **Parte 2 del proyecto TelecomX: preprocesamiento avanzado, análisis de correlación y modelos de Machine Learning para predecir la cancelación de clientes.**
 
-> 📎 Esta etapa toma como entrada el dataset limpio generado en la [Parte 1 — EDA](TelecomX1.ipynb).
 
 </div>
 
